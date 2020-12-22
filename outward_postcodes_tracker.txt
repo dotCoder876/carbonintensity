@@ -1,0 +1,1 @@
+AB10,57.1349,-2.11738,392994,804893,NJ929048,"Aberdeen city centre, Bridge of Dee, Mannofield",Aberdeen,896,675,21964,11517,"AB9, AB25, AB11, AB1, AB24, AB12, AB99, AB15, AB22, AB2"
